@@ -21,7 +21,7 @@ As such the distribution displayed is dimensionless
 26G4 FDTD.gif contains a simulation of 2-dimensional far-field reflected power distribution of bullseye 26G4 under white light illumination, sweeping through wavelength in time.
 This gif contains the results of a FDTD simulation of bullseye 26G4 under focussed gaussian illumination.
 The number at the top of the gif is the wavelength of the distribution shown.
-The power has been normalised with respect to its peak value, which is not known to me.
+The power has been normalised with respect to its peak value.
 
 26E4 Extended.gif contains a 2-dimensional far-field reflected power distribution of bullseye 26E4 under white light illumination, sweeping through wavelength in time.
 The number at the top of the gif is the wavelength of the distribution shown.
